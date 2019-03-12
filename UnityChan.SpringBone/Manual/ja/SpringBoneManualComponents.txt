@@ -5,6 +5,8 @@ Unity-chan SpringBone マニュアル
 
 Unity-chan SpringBoneはボーンベースのキャラクター揺れものを想定したダイナミクスシステム。
 処理負荷のためクロスシミュレーションが使えない場合、ボーン単位での制御がしたい場合などに使います。
+Unity-chan SpringBone是一种Dynamics System，主要对以骨骼为基础的角色身上的摇晃物体进行处理。
+因为处理负荷太大而导致cloth simulation无法使用时，以及需要对每个骨骼进行控制时，可以使用Unity-chan SpringBone。
 
 このシステムは主に以下のコンポーネントで構成されています。
 
